@@ -11,7 +11,9 @@ It includes insights such as ticket volume over time, average resolution times, 
 ## Tools Used
 - Power BI  
 - SQL (for data extraction & preparation)  
-- Excel (initial cleaning)  
+- Excel (initial cleaning)
+
+> 📎 The raw and cleaned dataset used for this project (`customer_support_tickets.xlsx`) is included in this repository for reference.
 
 ## Preview
 
